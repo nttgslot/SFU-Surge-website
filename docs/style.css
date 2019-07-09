@@ -2,6 +2,37 @@ body {
     font-family: sans-serif;
 }
 
-h1 {
-  color: blue;
+header {
+	padding: 12px;
+	text-align: right;
 }
+
+#title {
+	color = blue;
+}
+
+ul#horizontal-list {
+	list-style: none;
+	}
+	ul#horizontal-list li {
+		display: inline;
+	}
+	ul#horizontal-list a {
+		display: inline;
+	}
+	ul#horizontal-list p {
+		display: inline;
+	}
+
+footer {
+	text-align: center;
+	background-color: #2a60b8;
+	height: 50px;
+}
+
+ul#horizontal-list-2 {
+	list-style: none;
+	}
+	ul#horizontal-list-2 li {
+		display: inline;
+	}
